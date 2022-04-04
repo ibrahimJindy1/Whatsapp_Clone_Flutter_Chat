@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291948501724",
+    "project_id": "greenchatapp",
+    "storage_bucket": "greenchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291948501724:android:aeb72f56f69b1689dd3219",
+        "android_client_info": {
+          "package_name": "com.ij.greenchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291948501724-kkim09cj2k1k8bvd65091cuukbufqn90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ij.greenchatapp",
+            "certificate_hash": "31c68766e7dfc9d02134133ee27bc6a6b88d785c"
+          }
+        },
+        {
+          "client_id": "291948501724-7t1496jd7tb0mmatpoi6l2n1sjh7efg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAFWjd2oFsWkFXjRWItshi3wUWT_BbHOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291948501724-7t1496jd7tb0mmatpoi6l2n1sjh7efg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
